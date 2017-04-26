@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/lk-geimfari/mimety.svg?branch=master)](https://travis-ci.org/lk-geimfari/mimety)
+
 <p align="center">
 <a href="https://github.com/lk-geimfari/mimex/">
   <img src="https://raw.githubusercontent.com/lk-geimfari/mimex/master/logo.png">
@@ -5,6 +8,7 @@
 </p>
 
 **Mimety** is a tiny library for Elixir that help you handle mime types. Complete list of mime types defined [here](http://www.iana.org/assignments/media-types/media-types.xhtml).
+
 
 ### Usage
 

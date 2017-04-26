@@ -1,5 +1,3 @@
-# Mimety
-
 <p align="center">
 <a href="https://github.com/lk-geimfari/mimex/">
   <img src="https://raw.githubusercontent.com/lk-geimfari/mimex/master/logo.png">

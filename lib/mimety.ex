@@ -1,15 +1,15 @@
-defmodule Mimex do
+defmodule Mimety do
   @moduledoc """
-  Documentation for Mimex.
-  Mimex is a tiny library for Elixir that help you handle mime types.
+  Documentation for Mimety.
+  Mimety is a tiny library for Elixir that help you handle mime types.
   More here: https://www.iana.org/assignments/media-types/media-types.xhtml
   """
 
   @doc """
-    iex> Mimex.extension("cpp")
+    iex> Mimety.extension("cpp")
     "text/x-c"
 
-    iex(1)> Mimex.mime_to_extension("text/x-c")
+    iex(1)> Mimety.mime_to_extension("text/x-c")
     ["c", "cc", "cxx", "cpp", "h", "hh", "dic"]
   """
 

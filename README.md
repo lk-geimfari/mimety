@@ -6,10 +6,6 @@
 
 **Mimety** is a tiny library for Elixir that help you handle mime types. Complete list of mime types defined [here](http://www.iana.org/assignments/media-types/media-types.xhtml).
 
-
-### Documentation
-`Mimety` is simple to use, and the below examples should help you get started. Complete documentation for `Mimety` is available here: https://hexdocs.pm/mimety/
-
 ### Usage
 
 ```elixir

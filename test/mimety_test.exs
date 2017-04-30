@@ -4,6 +4,7 @@ defmodule MimetyTest do
 
   test "extension" do
     assert Mimety.extension("cpp") == "text/x-c"
+    assert Mimety.extension("7z") == "application/x-7z-compressed"
   end
 
   test "mime to extension" do
